@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { PEOPLE_URL } from "@/constants";
 import Image from "next/image";
 
@@ -45,12 +45,12 @@ const CampSite = ({ backgroundImage, title, subtitle, peopleJoined }: CampProps)
       </div>
      </div>
     </div>
-  )
+  );
 }
 
 const Camp = () => {
   return (
-    <section className="2xl:max-container relative flex flex-col py-10 lg:mb-10 lg:py-20 xl:mb-20" >
+    <section className="2xl:max-container relative flex flex-col py-10 lg:mb-10 lg:py-20 xl:mb-20">
       <div className="hide-scrollbar flex h-[340px] w-full items-start justify-start gap-8 overflow-x-auto lg:h-[400px] xl:h-[640px]">
         <CampSite 
           backgroundImage="bg-bg-img-1"
@@ -72,7 +72,7 @@ const Camp = () => {
             <strong>Feeling Lost</strong> And Not Knowing The Way?
           </h2>
           <p className="regular-14 xl:regular-16 mt-5 text-white">
-            Starting from the anxiety of the climbers when visiting a new climbing location, the possibility of getting lost is very large. That's why we are here for those of you who want to start an adventure
+            Starting from the anxiety of the climbers when visiting a new climbing location, the possibility of getting lost is very large. That&#39;s why we are here for those of you who want to start an adventure
           </p>
           <Image 
             src="/quote.svg"
@@ -84,7 +84,7 @@ const Camp = () => {
         </div>
       </div>
     </section>
-  )
+  );
 }
 
-export default Camp
+export default Camp;
