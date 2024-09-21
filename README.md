@@ -1,3 +1,18 @@
+# TravelGen
+
+Welcome to the Camping Trip Assistant! This Next.js web application is designed to help you plan, organize, and enjoy your camping adventures. Whether you're a seasoned camper or a first-timer, our app provides all the tools you need for a successful trip.
+
+## Live Website
+To access the website [click here](https://travel-gens-6nx04ywbf-akshay-rs-projects-b28fc5b7.vercel.app/)
+
+## Features
+
+- **Trip Planning**: Create and manage multiple camping trips with ease.
+- **Packing Lists**: Generate customizable packing lists to ensure you don't forget anything.
+- **Campground Finder**: Discover campgrounds based on location, amenities, and user ratings.
+- **Weather Updates**: Stay informed with real-time weather updates for your camping destination.
+- **Activity Suggestions**: Get recommendations for outdoor activities based on your location and preferences.
+- **User Accounts**: Create an account to save your trips and preferences for future use.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
