@@ -3,7 +3,7 @@
 Welcome to the Camping Trip Assistant! This Next.js web application is designed to help you plan, organize, and enjoy your camping adventures. Whether you're a seasoned camper or a first-timer, our app provides all the tools you need for a successful trip.
 
 ## Live Website
-To access the website [click here](https://travel-gens-6nx04ywbf-akshay-rs-projects-b28fc5b7.vercel.app/)
+To access the website [click here](https://travel-gens.vercel.app/)
 
 ## Features
 
